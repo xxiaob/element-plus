@@ -10,7 +10,10 @@
     "dev": "pnpm -C play dev"
   },
   "devDependencies": {
-    "@element-extend/play": "workspace:*",
+    "sass": "^1.55.0",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@element-extends/components": "workspace:^1.0.0"
   }
 }

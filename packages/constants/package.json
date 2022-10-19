@@ -1,0 +1,6 @@
+{
+  "name": "@element-extends/constants",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT"
+}
