@@ -7,6 +7,10 @@
     "docs"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm -C play dev"
+  },
+  "devDependencies": {
+    "@element-extend/play": "workspace:*",
+    "typescript": "^4.8.4"
   }
 }

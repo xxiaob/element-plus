@@ -1,0 +1,19 @@
+# Editor directories and files
+.idea
+
+# Package Manage
+node_modules
+.pnpm-debug.log*
+
+# System
+dist
+coverage
+package/element-plus/version.ts
+
+
+# local env files
+*.local
+.eslintcache
+cypress/scheenshots/*
+cypress/videos/*
+tmp
